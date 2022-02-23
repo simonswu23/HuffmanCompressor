@@ -1,7 +1,3 @@
-//Simon Wu
-//12/10/2021
-//CSE 143 Section AP, Neel Jog
-//HuffmanCoding
 //Creates Class HuffmanCode that can compress text 
 //files into smaller files and can decompress
 //standard pre-formatted files into larger files
